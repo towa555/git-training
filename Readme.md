@@ -1,3 +1,3 @@
-# Git Course WEBDEV Feb2021
+# Git Course 
 
-This repository is to help web development students of the Feb2021 cohort learn and practice git and github.
+This repository is to help web development students of Seven Academy learn and practice git and github.

@@ -2,4 +2,3 @@
 
 1. Linus Torvalds
 2. Fon E. Noel NFEBE
-3. Kiam Anais
